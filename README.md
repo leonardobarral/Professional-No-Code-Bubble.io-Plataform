@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esta é uma aplicação no-code para o mapeamento de saúde mental, desenvolvida na plataforma Bubble.io. A aplicação visa oferecer um ambiente seguro e eficiente para coletar e analisar dados relacionados à saúde mental, permitindo insights acionáveis através da integração com ferramentas de visualização e análise de dados.
+Esta é uma aplicação no-code para o mapeamento de saúde mental, desenvolvida na plataforma Bubble.io. A aplicação visa oferecer um ambiente seguro e eficiente para coletar e analisar dados relacionados à saúde mental, permitindo insights acionáveis através da integração com ferramentas de visualização e análise de dados. Meu papel na iniciativa, é como Desenvolvedor principal, onde atuo como freelance para implementação de novas fetures, refatoramento e melhoria continua.
 
 ## Funcionalidades Principais
 
@@ -14,19 +14,15 @@ Esta é uma aplicação no-code para o mapeamento de saúde mental, desenvolvida
 - **Responsividade**: Design responsivo que garante uma experiência otimizada em dispositivos móveis e desktops.
 - **Atualizações Constantes**: A aplicação é atualizada constantemente para melhorar a experiência do usuário e garantir alta disponibilidade.
 
-## Desenvolvedor Responsável
-
-- **Nome**: Leonardo Ribeiro Barral
-- **Função**: Desenvolvedor e responsável pela implementação e manutenção da aplicação.
 
 ## Tecnologias Utilizadas
 
 - **Plataforma**: Bubble.io
 - **Banco de Dados**: Banco de dados nativo do Bubble.io
-- **Integração de Dados**: Power BI
-- **Visualização**: Google Charts
+- **Integração de Dados**: API RESTful + Power BI
+- **Visualização**: Google Charts e POwer Bi
 - **Automatização**: Triggers e Lógica de Negócio no Bubble.io
-- **Design Responsivo**: Layouts adaptáveis a diversos tamanhos de tela
+- **UX/UI**: Layouts Agradáveis e adaptáveis a diversos tamanhos de tela
 
 ## Atualizações e Disponibilidade
 
@@ -39,4 +35,4 @@ Este projeto é desenvolvido internamente e atualmente não aceita contribuiçõ
 ## Contato
 
 Para mais informações, entre em contato:
-- **Email**: leonardo@example.com
+- **Email**: leonardobarral2@gmail.com ou mentalhealthjobgroup@gmail.com
