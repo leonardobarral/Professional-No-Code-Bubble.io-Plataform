@@ -1,5 +1,9 @@
 # Mental Health Mapping Application - Bubble.io
 
+## Link da Aplicação
+  
+  <Genesis for Health(https://www.genesisforhealth.com)>
+
 ## Descrição
 
 Esta é uma aplicação no-code para o mapeamento de saúde mental, desenvolvida na plataforma Bubble.io. A aplicação visa oferecer um ambiente seguro e eficiente para coletar e analisar dados relacionados à saúde mental, permitindo insights acionáveis através da integração com ferramentas de visualização e análise de dados. Meu papel na iniciativa, é como Desenvolvedor principal, onde atuo como freelance para implementação de novas fetures, refatoramento e melhoria continua.
@@ -20,7 +24,7 @@ Esta é uma aplicação no-code para o mapeamento de saúde mental, desenvolvida
 - **Plataforma**: Bubble.io
 - **Banco de Dados**: Banco de dados nativo do Bubble.io
 - **Integração de Dados**: API RESTful + Power BI
-- **Visualização**: Google Charts e POwer Bi
+- **Visualização**: Google Charts e Power Bi
 - **Automatização**: Triggers e Lógica de Negócio no Bubble.io
 - **UX/UI**: Layouts Agradáveis e adaptáveis a diversos tamanhos de tela
 
