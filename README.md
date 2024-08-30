@@ -2,7 +2,7 @@
 
 ## Link da Aplicação
   
-  [Genesis for Health](https://www.genesisforhealth.com){:target="_blank"}
+  [Genesis for Health](https://www.genesisforhealth.com)
 
 
 ## Descrição
